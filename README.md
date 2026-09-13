@@ -1,1 +1,1 @@
-## Notebooks with implementations of optimization methods — teaching materials"
+## Notebooks with implementations of optimization methods
